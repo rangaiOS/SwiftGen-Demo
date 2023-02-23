@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+//test 
         lblTitle.text = L10n.bhagavadGita
         lblChapter.text = L10n.bhagavadGitaChapter(1)
         lblDescrption.text = L10n.bhagavadGitaChapter1Description
