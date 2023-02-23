@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalizationDemo
+
+  Created by Rishabh on 22/02/23.
+  
+*/
+"bhagavad_gita" = "Bhagavad Gita";
+"bhagavad_gita_chapter %@" = "Bhagavad Gita Chapter : %@";
+"bhagavad_gita_chapter_1_description" = "The opening chapter of the Gita introduces the two opposing armies and their principal members. Looking out at his army, Prince Duryodhana feels invincible despite the strength of the Pandava fighters. Duryodhana's description of the scene introduces the reader to the principal figures in each army.";
